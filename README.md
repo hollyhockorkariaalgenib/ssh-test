@@ -1,3 +1,3 @@
 # ssh-test
 Hurray!!!
-Connection established
+Connection successfully established, that works!!!
